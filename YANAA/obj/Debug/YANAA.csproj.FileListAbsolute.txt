@@ -1,0 +1,7 @@
+C:\YANA\YANA1.1\YANAA\bin\Debug\YANAA.exe.config
+C:\YANA\YANA1.1\YANAA\bin\Debug\YANAA.exe
+C:\YANA\YANA1.1\YANAA\bin\Debug\YANAA.pdb
+C:\YANA\YANA1.1\YANAA\obj\Debug\YANAA.csproj.AssemblyReference.cache
+C:\YANA\YANA1.1\YANAA\obj\Debug\YANAA.csproj.CoreCompileInputs.cache
+C:\YANA\YANA1.1\YANAA\obj\Debug\YANAA.exe
+C:\YANA\YANA1.1\YANAA\obj\Debug\YANAA.pdb
